@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task_name": "Learn Java"
+    },
+    {
+      "id": 2,
+      "task_name": "Learn Spring boot"
+    },
+    {
+      "id": 3,
+      "task_name": "Play football"
+    },
+    {
+      "id": 4,
+      "task_name": "Watch cricket"
+    },
+    {
+      "id": 5,
+      "task_name": "Eat Fruits"
+    },
+    {
+      "id": 6,
+      "task_name": "Read Books "
+    }
+  ]
+}
